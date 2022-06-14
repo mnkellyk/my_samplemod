@@ -1,4 +1,4 @@
-# sample_mod_repo
+# my_samplemod
 My hot take on how to structure a Python project.  Creates the entire structure of project, packages, and modules, including docs and tests artifacts.  Also eveloved a bit to suit developments in standards, and finally adapted with some quality of life/ease of use standfards.  
 
 Which is all to say:
