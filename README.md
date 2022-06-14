@@ -3,7 +3,7 @@ My hot take on how to structure a Python project.  Creates the entire structure 
 
 Which is all to say:
 
-
+```
 .
 ├── .github
 │   └── workflows
@@ -38,3 +38,4 @@ Which is all to say:
 └── todo.md
 
 8 directories, 23 files
+```
