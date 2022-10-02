@@ -1,5 +1,5 @@
 # my_samplemod
-My hot take on how to structure a Python project.  Creates the entire structure of project, packages, and modules, including docs and tests artifacts.  Also evolved a bit to suit developments in standards, and finally adapted with some quality of life/ease of use standfards.  
+My hot take on how to structure a Python project.  Creates the entire structure of project, packages, and modules, including docs and tests artifacts.  Also evolved a bit to suit developments in standards, and finally adapted with some quality of life/ease of use standards.  
 
 Which is all to say:
 * All the files where they belong, even if they aren't implemented up-front.
